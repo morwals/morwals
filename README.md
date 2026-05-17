@@ -16,7 +16,7 @@ I’m a passionate engineer who loves designing **reliable, production-grade AI 
 
 When I’m not coding, I’m exploring how intelligent systems can make information more accessible and useful.
 
-<div align="center">
+<div align="left">
   
   <strong>"I engineer systems that don't just use AI — they think with it."</strong>
   
@@ -24,12 +24,10 @@ When I’m not coding, I’m exploring how intelligent systems can make informat
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>Let's connect and build something intelligent together</h3>
   
   [LinkedIn](https://www.linkedin.com/in/sumit-morwal-0b248b203/) • john8055.skm@gmail.com
 </div>
 
 ---
-
-*Crafted with curiosity and clean code*

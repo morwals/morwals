@@ -1,47 +1,35 @@
 <div align="center">
-  <h1>Hi, I'm Sumit Morwal 👋</h1>
-  <p><strong>Software Engineer | GenAI & LLM Systems | Backend Architecture</strong></p>
+  <h1>Hi, I'm Sumit Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+  
+  <p><strong>Software Engineer crafting intelligent systems with Generative AI</strong></p>
+  
+  <img src="https://img.shields.io/badge/GenAI-Systems%20Engineer-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-Scalable-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building%20the%20Future-AI%20Native-00C853?style=for-the-badge" />
 </div>
 
 ---
 
 ### About Me
 
-Passionate Software Engineer focused on designing and building **production-grade Generative AI systems** and scalable backend architectures. I specialize in creating reliable AI pipelines that combine Large Language Models with robust engineering practices.
+I’m a passionate engineer who loves designing **reliable, production-grade AI systems**. I specialize in bridging the gap between powerful Large Language Models and robust, scalable backend architecture — turning cutting-edge AI into real-world impact.
 
-### What I'm Building
-
-- **AI Document Intelligence Pipeline** — End-to-end system for automated summarization, metadata extraction, and intelligent document processing.
-- **Hybrid Semantic Search Engine** — Combining vector search (k-NN) with traditional keyword search for high-accuracy retrieval.
-- **AI-Powered Tech Content Aggregator & Newsletter Engine** — Event-driven platform that aggregates, summarizes, and delivers high-quality technical content.
-
-### Skills
-
-**Languages & Frameworks**  
-Python • C++ • TypeScript • React.js
-
-**AI & Search**  
-Large Language Models • RAG • Prompt Engineering • Vector Embeddings • Hybrid Search • OpenSearch
-
-**Cloud & Data**  
-AWS (Lambda, SQS, Batch, S3) • PostgreSQL • Event-Driven Systems • Distributed Processing
-
-**Core Expertise**  
-AI Orchestration • High-Concurrency Pipelines • Performance Optimization • Self-Healing Systems
-
-### Currently Exploring
-
-- Advanced Multi-Agent AI Systems
-- Efficient LLM inference and orchestration patterns
-- Building intelligent developer tools and platforms
-
----
+When I’m not coding, I’m exploring how intelligent systems can make information more accessible and useful.
 
 <div align="center">
-  <strong>Engineering reliable, scalable, and intelligent systems powered by AI.</strong>
+  
+  <strong>"I engineer systems that don't just use AI — they think with it."</strong>
+  
 </div>
 
 ---
 
-**Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/sumit-morwal-0b248b203/) | john8055.skm@gmail.com
+<div align="center">
+  <h3>Let's connect and build something intelligent together</h3>
+  
+  [LinkedIn](https://www.linkedin.com/in/sumit-morwal-0b248b203/) • john8055.skm@gmail.com
+</div>
+
+---
+
+*Crafted with curiosity and clean code*

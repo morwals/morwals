@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Sumit Kumar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+  <h1>Hi, I'm Sumit Morwal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
   
   <p><strong>Software Engineer crafting intelligent systems with Generative AI</strong></p>
   

@@ -1,73 +1,47 @@
 <div align="center">
-  <h1>Hi, I'm Sumit Kumar 👋</h1>
-  
-  <p><strong>Software Engineer @ Gartner</strong> | <strong>GenAI & LLM Systems</strong> | Backend Architecture</p>
-  
-  <img src="https://img.shields.io/badge/GenAI-Production_Ready-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-Expert-FF6F00?style=for-the-badge" alt="LLM" />
-  <img src="https://img.shields.io/badge/Hybrid_Search-OpenSearch-528BFF?style=for-the-badge" alt="Search" />
-  <img src="https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <h1>Hi, I'm Sumit Morwal 👋</h1>
+  <p><strong>Software Engineer | GenAI & LLM Systems | Backend Architecture</strong></p>
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm a passionate **Software Engineer** with a strong focus on building **production-grade Generative AI systems** and high-performance backend architectures. 
+Passionate Software Engineer focused on designing and building **production-grade Generative AI systems** and scalable backend architectures. I specialize in creating reliable AI pipelines that combine Large Language Models with robust engineering practices.
 
-Currently at **Gartner**, I design and own end-to-end AI document intelligence pipelines that process thousands of documents with Large Language Models, hybrid semantic search, and reliable orchestration.
+### What I'm Building
 
-I love turning complex problems into scalable, reliable, and intelligent systems — from prompt engineering to distributed data pipelines.
+- **AI Document Intelligence Pipeline** — End-to-end system for automated summarization, metadata extraction, and intelligent document processing.
+- **Hybrid Semantic Search Engine** — Combining vector search (k-NN) with traditional keyword search for high-accuracy retrieval.
+- **AI-Powered Tech Content Aggregator & Newsletter Engine** — Event-driven platform that aggregates, summarizes, and delivers high-quality technical content.
 
-### 🛠️ What I'm Working On
-
-- **AI Document Intelligence Platform** — End-to-end pipeline using AWS Lambda, LLMs, and hybrid search (OpenSearch k-NN + BM25)
-- High-concurrency ETL pipelines handling **5000+** vendor documents monthly with **99.9%** success rate
-- Self-healing, resilient systems with real-time data consistency between PostgreSQL and OpenSearch
-- Personal **AI-Powered Tech Content Aggregator & Newsletter Engine**
-
-### 🏆 Key Achievements
-
-- **Iron Man Excellence Award** for high-impact contributions and ownership of DocSmart production systems
-- Reduced manual effort by **40-50%** through automated AI summarization and metadata extraction
-- Improved retrieval accuracy by **35%+** by building a hybrid semantic search engine
-- Decreased pipeline execution time by **75%** using multi-threaded architecture and async I/O
-- Optimized React frontend performance, reducing API calls by **98%**
-
-### 🧰 Tech Arsenal
+### Skills
 
 **Languages & Frameworks**  
 Python • C++ • TypeScript • React.js
 
-**AI & Data**  
+**AI & Search**  
 Large Language Models • RAG • Prompt Engineering • Vector Embeddings • Hybrid Search • OpenSearch
 
-**Cloud & Infrastructure**  
-AWS (Lambda, SQS, Batch, Step Functions, S3) • PostgreSQL • Event-Driven Architecture
+**Cloud & Data**  
+AWS (Lambda, SQS, Batch, S3) • PostgreSQL • Event-Driven Systems • Distributed Processing
 
-**Core Strengths**  
-Distributed Systems • High-Concurrency Pipelines • Self-Healing Systems • Performance Engineering
+**Core Expertise**  
+AI Orchestration • High-Concurrency Pipelines • Performance Optimization • Self-Healing Systems
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
-- Advanced Multi-Agent Systems & AI Orchestration
-- Efficient LLM inference and quantization
-- Building delightful developer tools powered by AI
+- Advanced Multi-Agent AI Systems
+- Efficient LLM inference and orchestration patterns
+- Building intelligent developer tools and platforms
 
 ---
 
 <div align="center">
-  <strong>"I don't just integrate LLMs — I engineer reliable, scalable systems around them."</strong>
+  <strong>Engineering reliable, scalable, and intelligent systems powered by AI.</strong>
 </div>
 
 ---
 
-### 📫 Let's Connect
-
-- **Email**: john8055.skm@gmail.com
-- **Phone**: +91-9817876455
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-*Crafted with ❤️ for clean code, intelligent systems, and continuous learning*
+**Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/sumit-morwal-0b248b203/) | john8055.skm@gmail.com
